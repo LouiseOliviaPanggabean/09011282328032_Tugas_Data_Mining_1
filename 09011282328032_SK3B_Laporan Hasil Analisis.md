@@ -1,3 +1,6 @@
+<p><b>Nama : Louise Olivia Panggabean</b><br/>
+  <b>NIM : 09011282328032</b><br/>
+  <b> Kelas : SK3B</b></p>
 <h1>LAPORAN HASIL EKSPLORASI DAN ANALISIS DATA</h1>
 <h2> 1. Eksplorasi Data</h2>
 Pada analsis data, data set berisikan sejumlah baris dan kolom yang menunjukkan jumlah sampel dan variabel yang tersedia. Dari dataset kita dapat menemukan jumlah dari kolom, baris, nilai yang hilang dan perlu diperhatikan, serta outliers yang dapat mempengaruhi hasil analisis
